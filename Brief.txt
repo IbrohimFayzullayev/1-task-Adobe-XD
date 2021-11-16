@@ -1,0 +1,93 @@
+IT Learn Platform
+
+General Brief
+
+1) IT Learn Platform -> Professional darajada IT mutaxassislarni o'qitish uchun mo'ljallangan sayt
+
+2) Ushbu sayt dasturlashni o'rgatadi. Ko'proq odam yig'ish uchun beginner darajadagi darslarni tekin 
+   o'rgatish lozim. O'quvchi avval tekin bilimlar oladi va professional o'rganish uchun pullik darslarni
+   sotib olishga majbur bo'ladi va pullik darslar ni o'qib chiqgan o'quvchilarga sertifikat beriladi.
+   Bu sertifikat ko'p kompaniyalar o'quvchilarni ishga olishini taminlaydi.
+
+3) Bu sayt har bir bilim olishni istaganlar va qiyin ishdan zerikib nisbatan yengilroq bo'lgan ish 
+   bilan ko'proq daromad topishni hohlovchilar uchun.
+
+4) Pullik darslarni sotib olib va u kursni tugatib sertifikat olishingiz va shu sertifikat orqali ishga 
+   joylashishingiz mumkin. 
+   
+5) Sizga jpg formatda topshiraman.
+
+6) Cost. Total:8000$, per hour:90$.
+
+7) -> 10-noyabrdan 15 noyabr -> Qoralama variantni tugataman.
+   -> 16-23-noyabr           -> High fidelity
+   -> 24-noyabr 5- dekabr    -> Coding
+   -> 6-10-dekabr            -> Testing
+   -> 11-dekabr              -> Finish product
+
+Wireframing Brief
+
+Home page
+
+1) Navbar
+     a) IT Learn Platform -> Logo
+     b) Account
+     c) Log In
+2) Slider
+     a) Tekin kurslar haqida malumotlar 3 ta rasm ekranda ko'rinadi va almashib turadi
+     b) Eng kop sotib olinayotgan kurslar ketma ketligi ular ham 3 ta rasm bolib joylashadi almashib turadi.
+3) About
+     a) Bu saytni kuzatuvchilar soni, ro'yxatdan o'tganlar soni, sertifikat olganlar soni, video darsliklarni
+        ko'rishlar soni bir kunda saytga tashrif buyuruvchilar soni  haqida to'liq malumot sifrlarda
+4) Help -> Yordam
+     a) Qanday ro'yxatdan o'tish mumkin
+     b) Kurslarni sotib olish tartibi va shartlari
+     c) Sertifikat olish tartibi
+     d) About us -> Biz haqimizda
+   Comments -> Helpni o'ng tomonidan bir xil razmerdagi joyga bitta slider qo'shish unda eng yaxshi 
+        komentariyalarni ko'rsatish va almashtirib turish rasm holda boladi.
+5) Footer -> 3 ta qismga bo'linadi
+     1) Platformaning sertifikati qabul qilinishi mumkin bo'lgan gigant kompaniyalar
+         a) Google
+         b) Apple
+         c) Samsung
+         d) Meta
+         f) Microsoft
+     2) Addres
+         a) Kartada rasm ko'rinishida bosh ofis manzilini ko'rsatish
+     3) Biz bilan bog'lanish
+         Call: Phone Number 2 ta         
+         Bot:  Telegram bot 
+
+Personal page
+
+1) Navbar tepa qismi
+     a) IT Learn Platform
+     b) Search
+     c) My Courses
+2) Navbar past qismi
+     a) Level:      1) Beginner         2) Middle              3) Advanced
+     b) Courses:    1) Tekin kurslar    2) Pullik kurslar      3) Umumiy
+     c) Technology: 1) Machine Learning 2) Software Engenering 3) Data science
+     d) search icon
+3) Slider
+     a) Eng ko'p ko'rilayotgan mashhur kurslarni 4 tasini ketma-ket chiqarib qoyish va almashtirib turish
+     b) Eng yaxshi senior developer o'qituvchilar 4 tasini chiqarib qoyish va almashtirib turish ular 
+        haqida qisqa malumotlar yozib ketish
+     c) Qaysi dasturchilar yiliga o'rtacha hisobda qancha daromad qilishi haqida malumot yozib ketish  
+4) About
+     a) Bu saytni kuzatuvchilar soni, ro'yxatdan o'tganlar soni, sertifikat olganlar soni, video darsliklarni
+        ko'rishlar soni bir kunda saytga tashrif buyuruvchilar soni  haqida to'liq malumot sifrlarda
+
+5) Footer -> 3 ta qismga bo'linadi
+     1) Platformaning sertifikati qabul qilinishi mumkin bo'lgan gigant kompaniyalar
+         a) Google
+         b) Apple
+         c) Samsung
+         d) Meta
+         f) Microsoft
+     2) Addres
+         a) Kartada rasm ko'rinishida bosh ofis manzilini ko'rsatish
+     3) Biz bilan bog'lanish
+         Call: Phone Number 2 ta         
+         Bot:  Telegram bot  
